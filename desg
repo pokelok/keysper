@@ -1,6 +1,6 @@
 local linkvertise = 'https://bit.ly/3pAT6XW'
 local discordLink = 'https://discord.gg/KAjqmrqSC6'
-local uniqueKey = game:HttpGet'https://pastebin.com/raw/rmTZ383x';
+local uniqueKey = game:HttpGet'https://pastebin.com/raw/ik0WnNQu';
 
 local thescript = [[
     loadstring(game:HttpGet("https://raw.githubusercontent.com/pokelok/krahb/main/painel"))()
